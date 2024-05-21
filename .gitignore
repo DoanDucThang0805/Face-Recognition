@@ -1,0 +1,13 @@
+.idea
+Thang/
+idea/
+Data/raw_images/
+Data/labels/
+Detection/Yolo/Data_train_test
+Detection/Yolo/datasets
+Detection/Yolo/images
+Recognition/VGG16/Data
+Detection/Yolo/train
+Detection/Yolo/runs
+Detection/Yolo/Pretrain
+Recognition/VGG16/Result
